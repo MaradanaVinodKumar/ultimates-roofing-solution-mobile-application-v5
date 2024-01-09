@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c7a2339-a311-4d14-a69c-4ddc3e32f85f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Components/Reviews.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/Components/Reviews.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Components/Trust.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/Components/Trust.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Navigation/TabNavigator.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/Navigation/TabNavigator.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screens/AboutPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/Screens/AboutPage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screens/ContactPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/Screens/ContactPage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screens/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/Screens/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screens/HomePage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/Screens/HomePage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screens/ServicePage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/Screens/ServicePage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screens/Services/CommercialRoofing.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/Screens/Services/CommercialRoofing.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screens/Services/Gutters.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/Screens/Services/Gutters.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screens/Services/ResidentialRoofing.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/Screens/Services/ResidentialRoofing.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screens/Services/SidingInstallation.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/Screens/Services/SidingInstallation.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screens/Services/Windows.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/Screens/Services/Windows.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/5_files/compiled_wasm(1).js.br" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/5_files/compiled_wasm.js.br" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/5_files/embed.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/5_files/figma_app.min.css.br" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/5_files/figma_app.min.js.br" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/5_files/icon" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/5_files/icon(1)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/5_files/icon(10)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/5_files/icon(2)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/5_files/icon(3)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/5_files/icon(4)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/5_files/icon(5)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/5_files/icon(6)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/5_files/icon(7)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/5_files/icon(8)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/5_files/icon(9)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/5_files/import.shim.js.br" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/5_files/plugin-sandbox(1).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/5_files/plugin-sandbox(2).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/5_files/plugin-sandbox.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/5_files/prototype_app.min.css.br" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/5_files/prototype_app.min.js.br" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/5_files/saved_resource.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/5_files/shim.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/5_files/ts-viewer.js.br" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/5_files/videojs.min.js.br" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2Z3woLOh6mKCBRwmD6GUltIHA3Z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Aditya/React Native/ultimates-roofing-solution-application&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;AndroidSdkUpdater&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c7a2339-a311-4d14-a69c-4ddc3e32f85f" name="Changes" comment="" />
+      <created>1701664245102</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701664245102</updated>
+    </task>
+    <servers />
+  </component>
+</project>

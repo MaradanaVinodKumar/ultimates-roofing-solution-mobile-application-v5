@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "ultimates-roofing-solution-application",
+    "slug": "ultimates-roofing-solution-application",
+    "privacy": "public",
+    "description": "This is a complete solution for your roofing",
+    "version": "1.0.0",
+    "orientation": "portrait", 
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "UltimatesRoofingLLC"
+    },
+    "android": {
+      "icon": "./assets/icon.png",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.viswa_aditya.ultimatesroofingsolutionapplication"
+    },
+    "web": {
+      "favicon": "./assets/UltimatesLogo.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "2318af7b-4f1f-4c0a-9072-c859c8c060c5"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/2318af7b-4f1f-4c0a-9072-c859c8c060c5"
+    }
+  }
+}
